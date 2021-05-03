@@ -2,7 +2,7 @@
 
 ### Howdy 🤠
 
-- 🔭 I’m currently working on: PWA "DinoApp", Twitter Quote Bot
+- 🔭 I’m currently working on: PWA "DinoApp", Twitter Quote Bot APP & API
 - 🌱 I’m currently learning: React JS + Typescript / Spring RESTful APIs
-- 💬 Ask me about: my 200+ spotify playlists sorted by humor
+- 💬 Ask me about: my 200+ [spotify](https://open.spotify.com/user/12168421791?si=e241dd1b2a894156) playlists
 - 💻 Pronouns: they/them
