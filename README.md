@@ -7,5 +7,3 @@
 - 💻 Pronouns: they/them
 
 [![Mayra's GitHub stats](https://github-readme-stats.vercel.app/api?username=prphawk&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prphawk&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
