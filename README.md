@@ -2,7 +2,7 @@
 
 ### Howdy 🤠
 
-- 🔭 Intern @ Dell Technologies
+- 🔭 Software Engineer @ Dell Technologies
 - 💬 Ask me about: my [spotify](https://open.spotify.com/user/12168421791?si=e241dd1b2a894156) playlists
 - 💻 Pronouns: they/them
 
